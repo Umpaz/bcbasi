@@ -1,0 +1,67 @@
+{
+  "block.cooking_pot.boil": {
+    "subtitle": "farmersdelight.subtitles.cooking_pot.boil",
+    "sounds": [
+      "farmersdelight:block/cooking_pot/boil_water1",
+      "farmersdelight:block/cooking_pot/boil_water2"
+    ]
+  },
+  "block.cooking_pot.boil_soup": {
+    "subtitle": "farmersdelight.subtitles.cooking_pot.boil",
+    "sounds": [
+      "farmersdelight:block/cooking_pot/boil_soup1",
+      "farmersdelight:block/cooking_pot/boil_soup2",
+      "farmersdelight:block/cooking_pot/boil_soup3"
+    ]
+  },
+  "block.cutting_board.knife": {
+    "subtitle": "farmersdelight.subtitles.cutting_board.knife_cut",
+    "sounds": [
+      "farmersdelight:block/cutting_board/knife1",
+      "farmersdelight:block/cutting_board/knife2"
+    ]
+  },
+  "block.skillet.sizzle": {
+    "subtitle": "farmersdelight.subtitles.skillet.sizzle",
+    "sounds": [
+      "farmersdelight:block/skillet/sizzle1",
+      "farmersdelight:block/skillet/sizzle2",
+      "farmersdelight:block/skillet/sizzle3"
+    ]
+  },
+  "block.skillet.add_food": {
+    "subtitle": "farmersdelight.subtitles.skillet.add_food",
+    "sounds": [
+      "farmersdelight:block/skillet/add_food1",
+      "farmersdelight:block/skillet/add_food2"
+    ]
+  },
+  "item.skillet.attack.strong": {
+    "sounds": [
+      "farmersdelight:block/skillet/attack_strong"
+    ]
+  },
+  "item.skillet.attack.weak": {
+    "sounds": [
+      "farmersdelight:block/skillet/attack_weak"
+    ]
+  },
+  "block.stove.crackle": {
+    "subtitle": "farmersdelight.subtitles.stove.crackle",
+    "sounds": [
+      {
+        "name": "block.campfire.crackle",
+        "type": "event"
+      }
+    ]
+  },
+  "block.tomato_bush.pick_tomatoes": {
+    "subtitle": "farmersdelight.subtitles.tomato.pick",
+    "sounds": [
+      {
+        "name": "block.sweet_berry_bush.pick_berries",
+        "type": "event"
+      }
+    ]
+  }
+}

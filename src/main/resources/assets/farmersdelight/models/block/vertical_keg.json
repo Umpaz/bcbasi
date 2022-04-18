@@ -1,0 +1,23 @@
+{
+	"textures": {
+		"bottom": "farmersdelight:block/vertical_keg_bottom",
+		"front": "farmersdelight:block/vertical_keg_front",
+		"side": "farmersdelight:block/vertical_keg_side",
+		"top": "farmersdelight:block/vertical_keg_top",
+		"particle": "farmersdelight:block/vertical_keg_side"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 16, 15],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#front"},
+				"east": {"uv": [1, 0, 15, 16], "texture": "#side"},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#side"},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#side"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#top"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#bottom"}
+			}
+		}
+	]
+}
